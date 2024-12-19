@@ -1,4 +1,4 @@
-# solana-lottery.org-verify
+# solanalottery.org-verify
 ```markdown
 # Game Result Verifier
 
