@@ -27,8 +27,6 @@
 
 **Game Result Verifier** is a program that allows any user to verify the results of a given game. It ensures transparency by enabling users to independently reproduce and confirm game outcomes.
 
-## Installation
-
 ### Dependencies
 
 Install the required dependencies with `pip`:
